@@ -4,6 +4,8 @@ Note Taker
 # Link to app
 https://note-taker-app3.herokuapp.com/
 
+## Screenshots of working application
+
 
 ## Purpose
 The purpose of the application is to keep track of daily tasks and have an organized mindset by using this convenient app that will allow you to write, save, and delete notes. 
